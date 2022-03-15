@@ -2,9 +2,9 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="resources/aws.md"><img src="images/aws.png" width="50px;" height="50px;" alt="AWS"/><br /><b>Bash</b></a></td>
-    <td align="center"><a href="resources/azure.md"><img src="images/azure.png" width="50px;" height="50px;" alt="Azure"/><br /><b>Golang</b></a></td>
-    <td align="center"><a href="resources/gcp.md"><img src="images/gcp.png" width="50px;" height="50px;" alt="GCP"/><br /><b>Python</b></a></td>  </tr>
+    <td align="center"><a href="resources/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
+    <td align="center"><a href="resources/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
+    <td align="center"><a href="resources/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>  </tr>
   </tr>
 </table>
 
@@ -12,9 +12,9 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="50px;" height="50px;" alt="Bash"/><br /><b>Bash</b></a></td>
-    <td align="center"><a href="resources/golang.md"><img src="images/python.png" width="50px;" height="50px;" alt="Golang"/><br /><b>Golang</b></a></td>
-    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="50px;" height="50px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
+    <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
+    <td align="center"><a href="resources/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
+    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
   </tr>
 </table>
 </center>
@@ -23,8 +23,8 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="50px;" height="50px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-    <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="50px;" height="50px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
+    <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
   </tr>
 </table>
 </center>
@@ -33,9 +33,9 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="50px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
-    <td align="center"><a href="resources/k3s.md"><img src="images/k3s.png" width="50px;" height="50px;" alt="K3S"/><br /><b>K3S</b></a></td>
-    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="50px;" height="50px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
+    <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
+    <td align="center"><a href="resources/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a></td>
+    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
   </tr>
 </table>
 </center>
