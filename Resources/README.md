@@ -23,7 +23,8 @@
 <center>
 <table>
   <tr>
-    <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="50px;" height="50px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>  </tr>
+    <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="50px;" height="50px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+    <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="50px;" height="50px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
   </tr>
 </table>
 </center>
