@@ -28,6 +28,16 @@
 </table>
 </center>
 
+##  Container Orchestration (CI/CD)
+<center>
+<table>
+  <tr>
+    <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="50px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>  </tr>
+    <td align="center"><a href="resources/openshift.md"><img src="images/openshift.png" width="50px;" height="50px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>  </tr>
+  </tr>
+</table>
+</center>
+
 ## My DevOps Reading List
 Name | Complete? | Comments
 :------|:------:|:------:
