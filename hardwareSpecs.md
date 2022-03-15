@@ -1,14 +1,11 @@
-### Firewall
 
-
-### Switch
-
-
-### Raspberry Pi
-Current
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-### 
+###To Document
+- [x] Buy Parts for Cluster Build
+- [X] Research Technical Stack
+- [X] (10) Cat5e Ethernet 1'
+- [X] 
+- [X]
+- [X]
+- [ ]
+- [ ]
+- [ ]
