@@ -35,7 +35,7 @@
   <tr>
     <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="resources/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a></td>
-    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
+    <td align="center"><a href="resources/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>  </tr>
   </tr>
 </table>
 </center>
