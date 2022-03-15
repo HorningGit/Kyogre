@@ -2,9 +2,9 @@
 ## Horning's DevOps Software/OS Toolkit
 ## Monitoring
 - [Prometheus | Home Page](https://prometheus.io/)
-- 45W PoE (4 ports)
-- 45W PoE (4 ports)
-- 45W PoE (4 ports)
+- [Prometheus | Documentation](https://prometheus.io/docs/introduction/overview/)
+- [Prometheus | GitHub](https://prometheus.io/docs/introduction/overview/)
+
 
 ### **Netgate 1100**
 - [X] pfSense Firewall Distrobution
