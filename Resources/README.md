@@ -28,11 +28,11 @@
 </table>
 </center>
 
-## Books for DevOps
-Name | Comments
-:------|:------:
-[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) | DevOps explained through a story of a fictional company on the brink of a failure
-[The DevOps Handbook](https://www.amazon.com/dp/1942788002) |
-[Google SRE books](https://landing.google.com/sre/books) | Very detailed books on the theory and also practice of SRE
-[Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
+## My DevOps Reading List
+Name | Complete? | Comments
+:------|:------:|:------:
+[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) | No | DevOps explained through a story of a fictional company on the brink of a failure
+[The DevOps Handbook](https://www.amazon.com/dp/1942788002) | No |
+[Google SRE books](https://landing.google.com/sre/books) | No | Very detailed books on the theory and also practice of SRE
+[Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | No | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
 
