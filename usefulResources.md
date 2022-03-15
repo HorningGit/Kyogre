@@ -1,12 +1,15 @@
 
 ## Horning's DevOps Software/OS Toolkit
 ## **Monitoring**
-- [Prometheus | Home Page](https://prometheus.io/)
-- [Prometheus | Documentation](https://prometheus.io/docs/introduction/overview/)
-- [Prometheus | GitHub](https://prometheus.io/docs/introduction/overview/)
+- [Lens | Home Page](https://k8slens.dev/)
+- [Lens | Documentation](https://docs.k8slens.dev/main/)
+- [Lens | GitHub](https://github.com/lensapp/lens)
 - [Grafana | Home Page](https://grafana.com/)
 - [Grafana | Documentation](https://grafana.com/docs/)
 - [Grafana | GitHub](https://github.com/grafana/grafana)
+- [Prometheus | Home Page](https://prometheus.io/)
+- [Prometheus | Documentation](https://prometheus.io/docs/introduction/overview/)
+- [Prometheus | GitHub](https://prometheus.io/docs/intro)
 
 ## **Firewall**
 - [pfSense | Home Page](https://www.pfsense.org/)
