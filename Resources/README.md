@@ -1,45 +1,57 @@
-## Cloud Platforms
-<center>
-<table>
-  <tr>
-    <td align="center"><a href="resources/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
-    <td align="center"><a href="resources/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
-    <td align="center"><a href="resources/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>  </tr>
-  </tr>
-</table>
-
 ## Programming
 <center>
-<table>
-  <tr>
-    <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
-    <td align="center"><a href="resources/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
-    <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>  </tr>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
+      <td align="center"><a href="resources/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+    </tr>
+  </table>
 </center>
 
 ##  Continuous Integration / Continuous Deployment (CI/CD)
 <center>
-<table>
-  <tr>
-    <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-    <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+      <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
+    </tr>
+  </table>
 </center>
 
 ##  Container Orchestration (CI/CD)
 <center>
-<table>
-  <tr>
-    <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
-    <td align="center"><a href="resources/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a></td>
-    <td align="center"><a href="resources/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>  </tr>
-    <td align="center"><a href="resources/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>  </tr>
-    <td align="center"><a href="resources/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>  </tr>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center"><a href="resources/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a>
+      <td align="center"><a href="resources/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a>
+      <td align="center"><a href="resources/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
+      <td align="center"><a href="resources/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>
+      <td align="center"><a href="resources/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>
+    </tr>
+  </table>
+</center>
+
+## Cloud Platforms
+<center>
+  <table>
+    <tr>
+      <td align="center"><a href="resources/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
+      <td align="center"><a href="resources/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="resources/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
+    </tr>
+  </table>
+</center>
+
+# Monitoring & Dashboards
+<center>
+  <table>
+    <tr>
+      <td align="center"><a href="resources/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="resources/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="resources/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
+    </tr>
+  </table>
 </center>
 
 ## My DevOps Reading List
