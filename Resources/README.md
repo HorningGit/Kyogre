@@ -65,8 +65,7 @@ Name | Complete? | Comments
 ## My DevOps Guides & Resources
 Name | Comments
 :------|:------:
-[Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | DevOps explained through a story of a fictional company on the brink of a failure
-[Cloud Native ~ Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf)
-[Google SRE books](https://landing.google.com/sre/books) | Very detailed books on the theory and also practice of SRE
-[Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
+[Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
+[Cloud Native ~ Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf) | Cloud native's recommended process of leveraging open source infrastructures.
+[Cloud Native ~ Landscape Guide](https://landscape.cncf.io/guide) | Detailed guide on the use/implementation of the cloud native landscape.
 
