@@ -3,8 +3,8 @@
   <table>
     <tr>
       <td align="center"><a href="tools/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="tools/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="tools/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="tools/golang.md"><img src="images/go.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="tools/python.md"><img src="images/python.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
