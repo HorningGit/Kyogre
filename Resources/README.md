@@ -3,8 +3,8 @@
   <table>
     <tr>
       <td align="center"><a href="tools/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="Resources/tools/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="Resources/tools/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="tools/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="tools/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
@@ -13,8 +13,8 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="Resources/tools/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-      <td align="center"><a href="Resources/tools/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
+      <td align="center"><a href="tools/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+      <td align="center"><a href="tools/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
     </tr>
   </table>
 </center>
@@ -23,11 +23,11 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="Resources/tools/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a>
-      <td align="center"><a href="resources/tools/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a>
-      <td align="center"><a href="resources/tools/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
-      <td align="center"><a href="resources/tools/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>
-      <td align="center"><a href="resources/tools/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>
+      <td align="center"><a href="tools/kubernetes.md"><img src="images/kubernetes.png" width="50px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a>
+      <td align="center"><a href="tools/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a>
+      <td align="center"><a href="tools/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
+      <td align="center"><a href="tools/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>
+      <td align="center"><a href="tools/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>
     </tr>
   </table>
 </center>
@@ -36,9 +36,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/tools/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="resources/tools/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="resources/tools/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="tools/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
+      <td align="center"><a href="tools/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="tools/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
@@ -47,9 +47,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/tools/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href="resources/tools/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="resources/tools/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
+      <td align="center"><a href="tools/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="tools/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="tools/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
     </tr>
   </table>
 </center>
