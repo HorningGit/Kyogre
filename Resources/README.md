@@ -2,9 +2,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="resources/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="resources/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="resources/tools/bash.md"><img src="images/bash.png" width="75px;" height="75px;" alt="Bash"/><br /><b>Bash</b></a></td>
+      <td align="center"><a href="resources/tools/golang.md"><img src="images/python.png" width="75px;" height="75px;" alt="Golang"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="resources/tools/python.md"><img src="images/go.png" width="75px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
@@ -13,8 +13,8 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-      <td align="center"><a href="resources/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
+      <td align="center"><a href="resources/tools/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+      <td align="center"><a href="resources/tools/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
     </tr>
   </table>
 </center>
@@ -36,9 +36,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="resources/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="resources/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="resources/tools/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
+      <td align="center"><a href="resources/tools/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
+      <td align="center"><a href="resources/tools/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
@@ -47,9 +47,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="resources/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href="resources/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="resources/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
+      <td align="center"><a href="resources/tools/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="resources/tools/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="resources/tools/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
     </tr>
   </table>
 </center>
