@@ -62,7 +62,7 @@ Name | Complete? | Comments
 [Google SRE books](https://landing.google.com/sre/books) | ❌ | Very detailed books on the theory and also practice of SRE
 [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | ❌ | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
 
-## My DevOps Guides & Resources
+## Cloud Native Computing Foundation's Landscape
 Name | Comments
 :------|:------:
 [Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
