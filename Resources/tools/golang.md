@@ -1,4 +1,4 @@
-## K3S Resources
+## Golang (Go) Resources
 - [Golang | Home Page](https://go.dev/)
 - [Golang | Documentation](https://go.dev/doc/)
 - [Golang | GitHub](https://github.com/golang)
