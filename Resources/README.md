@@ -37,9 +37,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="tools/cloud/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="tools/cloud/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="tools/cloud/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>Python</b></a></td>
+      <td align="center"><a href="tools/cloud/aws.md"><img src="images/aws.png" width="75px;" height="75px;" alt="AWS"/><br /><b>AWS</b></a></td>
+      <td align="center"><a href="tools/cloud/azure.md"><img src="images/azure.png" width="75px;" height="75px;" alt="Azure"/><br /><b>Azure</b></a></td>
+      <td align="center"><a href="tools/cloud/gcp.md"><img src="images/gcp.png" width="75px;" height="75px;" alt="GCP"/><br /><b>GCP</b></a></td>
     </tr>
   </table>
 </center>
