@@ -23,12 +23,12 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="tools/docker.md"><img src="images/docker.png" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
-      <td align="center"><a href="tools/kubernetes.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
-      <td align="center"><a href="tools/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a></td>
-      <td align="center"><a href="tools/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
-      <td align="center"><a href="tools/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>
-      <td align="center"><a href="tools/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>
+      <td align="center"><a href="tools/containers/docker.md"><img src="images/docker.png" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
+      <td align="center"><a href="tools/containers/kubernetes.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="Kubernetes"/><br /><b>Kubernetes</b></a></td>
+      <td align="center"><a href="tools/containers/k3s.md"><img src="images/k3s.png" width="75px;" height="75px;" alt="K3S"/><br /><b>K3S</b></a></td>
+      <td align="center"><a href="tools/containers/openshift.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
+      <td align="center"><a href="tools/containers/minikube.md"><img src="images/minikube.png" width="75px;" height="75px;" alt="Minikube"/><br /><b>Minikube</b></a></td>
+      <td align="center"><a href="tools/containers/microk8s.md"><img src="images/micro.png" width="75px;" height="75px;" alt="MicroK8s"/><br /><b>MicroK8s</b></a></td>
     </tr>
   </table>
 </center>
