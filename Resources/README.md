@@ -13,8 +13,8 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="tools/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
-      <td align="center"><a href="tools/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
+      <td align="center"><a href="tools/cicd/jenkins.md"><img src="images/jenkins.png" width="75px;" height="75px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
+      <td align="center"><a href="tools/cicd/githubactions.md"><img src="images/actions.png" width="75px;" height="75px;" alt="GitHub Actions"/><br /><b>GitHub Actions</b></a></td>
     </tr>
   </table>
 </center>
@@ -48,9 +48,9 @@
 <center>
   <table>
     <tr>
-      <td align="center"><a href="tools/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
-      <td align="center"><a href="tools/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="tools/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
+      <td align="center"><a href="tools/monitor/grafana.md"><img src="images/grafana.png" width="75px;" height="75px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
+      <td align="center"><a href="tools/monitor/prometheus.md"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
+      <td align="center"><a href="tools/monitor/nagios.md"><img src="images/nagios.png" width="75px;" height="75px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
     </tr>
   </table>
 </center>
