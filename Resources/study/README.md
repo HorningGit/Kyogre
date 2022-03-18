@@ -1,4 +1,4 @@
-## My DevOps Reading List
+## DevOps Reading List
 Name | Complete? | Comments
 :------|:------:|:------:
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290) | ❌ | DevOps explained through a story of a fictional company on the brink of a failure
@@ -6,6 +6,8 @@ Name | Complete? | Comments
 [Google SRE books](https://landing.google.com/sre/books) | ❌ | Very detailed books on the theory and also practice of SRE
 [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) | ❌ | VBook about automating software infrastructure by capturing desired configurations as a set of scripts.
 
+
+## Toolkit to Study
 Topic | What to learn | Description
 :------|:------|:------:
 Version Control | Git | Version Control is used everywhere and Git is the leading version control technology
