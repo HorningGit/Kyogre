@@ -1,7 +1,13 @@
-### Steps for Firewall
+## Steps for Security Gateway -> (Netgate 1100 ~ pfSense)
+- Configure pfSense port with IPv4 (ex. 192.168.2.1)
+- Configured as DNS Server
+- Configured as DHCP Server
+- 
+- test
+## Steps for Previous Home Router -> (Nighthawk AX5400)
 
-### Steps for Cisco Switch
+## Steps for Managed Switch -> (Cisco SG250-08HP ~ Cisco IOS)
 
-### Steps for Raspberry Pi
+## Steps for Raspberry Pi -> (RPi4, RPi4, RPi3B+)
 
-### STeps for Workstation -> Server
+## Steps for Workstation -> Server
