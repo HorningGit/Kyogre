@@ -5,7 +5,9 @@
 - 
 - test
 ## Steps for Previous Home Router -> (Nighthawk AX5400)
-
+- Configured for **AP MODE**
+- Verify router isn't providing DHCP
+- 
 ## Steps for Managed Switch -> (Cisco SG250-08HP ~ Cisco IOS)
 
 ## Steps for Raspberry Pi -> (RPi4, RPi4, RPi3B+)
