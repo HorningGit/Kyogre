@@ -13,3 +13,7 @@
 ## Steps for Raspberry Pi -> (RPi4, RPi4, RPi3B+)
 
 ## Steps for Workstation -> Server
+
+
+#### Useful Links
+<p>https://setuprouter.com/router/netgear/nighthawk-x6-r8000/ip-address.htm</p>
