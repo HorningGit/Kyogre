@@ -3,8 +3,8 @@ Type | Name | Description
 :------|:------:|:------:
 Source Control | [Interactive Git Branching Learning](https://learngitbranching.js.org/) | Visual and interactive way to learn Git branching
 Source Control | [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) | Article on Git concepts
-Source Control | [Codeacademy Learn Git](https://www.codecademy.com/learn/learn-git) | Not Free
-Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding skills
+Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding Skills
+Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
 Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
 Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guides + exercises + quiz
 Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
@@ -34,12 +34,3 @@ Containers | Docker, Podman, and Kubernetes| _
 CI/CD | Jenkins, GitHub Actions, Gitlab CI, Circle CI, Argo CD | -
 Logging and Dashboards | Elastic Stack, Report Portal, Grafana, Graylog, Splunk | -
 Monitoring | Prometheus, Nagios, Datadog | -
-
-### Learn Git
-
-Make sure you are comfortable with the following list once you done learning Git basics
-
-  * Commit changes to a project
-  * Submit pull/merge requests
-  * Working with branches
-  * Rebase changes (change order, squash, ...)
