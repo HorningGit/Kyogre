@@ -1,11 +1,12 @@
-## Cloud Native Computing Foundation's Landscape
-Name | Comments
-:------|:------:
-[Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
-[Cloud Native ~ Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf) | Cloud native's recommended process of leveraging open source infrastructures.
-[Cloud Native ~ Landscape Guide](https://landscape.cncf.io/guide) | Detailed guide on the use/implementation of Cloud Native's landscape.
+## System Administration & Design / Linux / Networking
 
-#### Languages
+Type | Name | Description
+:------|:------:|:------:
+Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guides + exercises + quiz
+Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
+Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
+
+# Languages
 <center>
   <table>
     <tr>
@@ -15,6 +16,13 @@ Name | Comments
     </tr>
   </table>
 </center>
+
+#### Study Sites for Coding
+Type | Name | Description
+:------|:------:|:------:
+Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding Skills
+Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
+Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
 
 ####  Containers & Container Orchestration
 <center>
@@ -71,3 +79,11 @@ Name | Comments
     </tr>
   </table>
 </center>
+
+## Cloud Native Computing Foundation's Landscape
+Name | Comments
+:------|:------:
+[Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
+[Cloud Native ~ Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf) | Cloud native's recommended process of leveraging open source infrastructures.
+[Cloud Native ~ Landscape Guide](https://landscape.cncf.io/guide) | Detailed guide on the use/implementation of Cloud Native's landscape.
+
