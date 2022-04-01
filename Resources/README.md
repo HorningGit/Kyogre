@@ -1,4 +1,4 @@
-## System Administration & Design / Linux / Networking
+# System Administration & Design / Linux / Networking
 
 Type | Name | Description
 :------|:------:|:------:
@@ -6,7 +6,7 @@ Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guide
 Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
 Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
 
-# Languages
+# Programming & Command Languages
 <center>
   <table>
     <tr>
