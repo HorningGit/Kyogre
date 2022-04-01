@@ -3,12 +3,6 @@ Type | Name | Description
 :------|:------:|:------:
 Source Control | [Interactive Git Branching Learning](https://learngitbranching.js.org/) | Visual and interactive way to learn Git branching
 Source Control | [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) | Article on Git concepts
-Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding Skills
-Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
-Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
-Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guides + exercises + quiz
-Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
-Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
 Multiple Topics | [Katacoda](https://www.katacoda.com/) | O'Reilly's Free Courses
 
 ## DevOps Reading List
