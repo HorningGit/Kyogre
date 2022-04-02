@@ -1,3 +1,9 @@
+<!-- Contact & Sites-->
+[![Linkedin Badge](https://img.shields.io/badge/-Alexander%20Horning-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alexander-horning-5b8bb918b/)](https://www.linkedin.com/in/alexander-horning-5b8bb918b/)
+[![Twitter Badge](http://img.shields.io/badge/-@LinuxTyranitar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/LinuxTyranitar)](https://twitter.com/LinuxTyranitar)
+[![Medium Badge](http://img.shields.io/badge/-@alex.horning-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@alex.horning)](https://medium.com/@alex.horning)
+[![Gmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic?&logo=protonmail&logoColor=white)](mailto:Alexander.Horning@protonmail.com)
+
 <!-- Admin Sectionhttps://training.linuxfoundation.org/ -->
 ___
 ## System Administration & Design / Linux / Networking
