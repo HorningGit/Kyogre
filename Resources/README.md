@@ -57,7 +57,7 @@ Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 260
 <!-- DevOps Section -->
 ___
 ## DevOps Tools
-###  Containers & Container Orchestration
+####  Containers & Container Orchestration
 <center>
   <table>
     <tr>
@@ -71,7 +71,7 @@ ___
   </table>
 </center>
 
-###  Infrastructure as Code (IaC)
+####  Infrastructure as Code (IaC)
 <center>
   <table>
     <tr>
@@ -81,7 +81,7 @@ ___
   </table>
 </center>
 
-###  Continuous Integration / Continuous Deployment (CI/CD)
+####  Continuous Integration / Continuous Deployment (CI/CD)
 <center>
   <table>
     <tr>
@@ -91,7 +91,7 @@ ___
   </table>
 </center>
 
-### Monitoring & Dashboards
+#### Monitoring & Dashboards
 <center>
   <table>
     <tr>
@@ -118,7 +118,7 @@ ___
   </table>
 </center>
 
-## Cloud Native Computing Foundation's Landscape
+#### Cloud Native Computing Foundation's Landscape
 Name | Comments
 :------|:------:
 [Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
