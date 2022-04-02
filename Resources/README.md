@@ -1,6 +1,17 @@
 <!-- Admin Section -->
 ___
 # System Administration & Design / Linux / Networking
+<center>
+  <table>
+   <tr>
+   <td align="center"><a href="tools/admin/devops.md"><img src="images/devops.png" width="50px;" height="50px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+   <td align="center"><a href="tools/admin/network.md"><img src="images/network.png" width="50px;" height="50px;" alt="Network"/><br /><b>Network</b></a></td>
+   <td align="center"><a href="resources/linux.md"><img src="images/linux.png" width="50px;" height="50px;" alt="Linux"/><br /><b>Linux</b></a></td>
+   <td align="center"><a href="resources/git.md"><img src="images/git.png" width="50px;" height="50px;" alt="Git"/><br /><b>Git</b></a></td>
+   </tr>
+  </table>
+</center>
+
 #### Study Sites for Administration
 Type | Name | Description
 :------|:------:|:------:
@@ -15,9 +26,9 @@ ___
 <center>
   <table>
     <tr>
-      <td align="center"><a href="tools/languages/bash.md"><img src="images/bash.png" width="50px;" height="50px;" alt="Bash"/><br /><b>Bash</b></a></td>
-      <td align="center"><a href="tools/languages/golang.md"><img src="images/go.png" width="50px;" height="50px;" alt="Golang"/><br /><b>Golang</b></a></td>
-      <td align="center"><a href="tools/languages/python.md"><img src="images/python.png" width="50px;" height="50px;" alt="Python"/><br /><b>Python</b></a></td>
+    <td align="center"><a href="tools/languages/bash.md"><img src="images/bash.png" width="50px;" height="50px;" alt="Bash"/><br /><b>Bash</b></a></td>
+    <td align="center"><a href="tools/languages/golang.md"><img src="images/go.png" width="50px;" height="50px;" alt="Golang"/><br /><b>Golang</b></a></td>
+    <td align="center"><a href="tools/languages/python.md"><img src="images/python.png" width="50px;" height="50px;" alt="Python"/><br /><b>Python</b></a></td>
     </tr>
   </table>
 </center>
@@ -30,11 +41,9 @@ Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding
 Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
 Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
 
-
 <!-- DevOps Section -->
 ___
 # DevOps Tools
-
 ###  Containers & Container Orchestration
 <center>
   <table>
@@ -99,4 +108,3 @@ Name | Comments
 [Cloud Native ~ Interactive Landscape](https://landscape.cncf.io/) | Categorization of cloud native open source projects as well as proprietary products.
 [Cloud Native ~ Trail Map](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.pdf) | Cloud native's recommended process of leveraging open source infrastructures.
 [Cloud Native ~ Landscape Guide](https://landscape.cncf.io/guide) | Detailed guide on the use/implementation of Cloud Native's landscape.
-
