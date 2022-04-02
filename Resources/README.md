@@ -1,6 +1,6 @@
 <!-- Admin Section -->
 ___
-# System Administration & Design / Linux / Networking
+## System Administration & Design / Linux / Networking
 <center>
   <table>
    <tr>
@@ -20,9 +20,11 @@ Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linu
 Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
 
 
+
+
 <!-- Programming & Scripting Section -->
 ___
-# Programming & Command Languages
+## Programming & Command Languages
 <center>
   <table>
     <tr>
@@ -41,9 +43,12 @@ Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding
 Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
 Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
 
+
+
+
 <!-- DevOps Section -->
 ___
-# DevOps Tools
+## DevOps Tools
 ###  Containers & Container Orchestration
 <center>
   <table>
@@ -89,9 +94,12 @@ ___
   </table>
 </center>
 
+
+
+
 <!-- Cloud Section -->
 ___
-# Cloud Platforms
+## Cloud Platforms
 <center>
   <table>
     <tr>
