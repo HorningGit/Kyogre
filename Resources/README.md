@@ -1,11 +1,15 @@
+<!-- Admin Section -->
 # System Administration & Design / Linux / Networking
-
+#### Study Sites for Administration
 Type | Name | Description
 :------|:------:|:------:
 Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guides + exercises + quiz
 Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
 Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
 
+
+<!-- Programming & Scripting Section -->
+___
 # Programming & Command Languages
 <center>
   <table>
@@ -17,6 +21,7 @@ Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial
   </table>
 </center>
 
+<!-- Coding Resourcs -->
 #### Study Sites for Coding
 Type | Name | Description
 :------|:------:|:------:
@@ -24,7 +29,11 @@ Golang/Python/Bash | [Codecademy](https://www.codecademy.com/) | Practice Coding
 Golang/Python/Bash | [HackerRank](https://www.hackerrank.com) | Practice Coding Skills
 Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 2600 exercises
 
-####  Containers & Container Orchestration
+
+<!-- DevOps Section -->
+___
+# DevOps Tools
+###  Containers & Container Orchestration
 <center>
   <table>
     <tr>
@@ -38,7 +47,7 @@ Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 260
   </table>
 </center>
 
-####  Infrastructure as Code (IaC)
+###  Infrastructure as Code (IaC)
 <center>
   <table>
     <tr>
@@ -48,7 +57,7 @@ Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 260
   </table>
 </center>
 
-####  Continuous Integration / Continuous Deployment (CI/CD)
+###  Continuous Integration / Continuous Deployment (CI/CD)
 <center>
   <table>
     <tr>
@@ -58,24 +67,26 @@ Golang/Python/Bash | [Exercism](https://exercism.io) | Over 48 languages and 260
   </table>
 </center>
 
-#### Cloud Platforms
-<center>
-  <table>
-    <tr>
-      <td align="center"><a href="tools/cloud/aws.md"><img src="images/aws.png" width="50px;" height="50px;" alt="AWS"/><br /><b>AWS</b></a></td>
-      <td align="center"><a href="tools/cloud/azure.md"><img src="images/azure.png" width="50px;" height="50px;" alt="Azure"/><br /><b>Azure</b></a></td>
-      <td align="center"><a href="tools/cloud/gcp.md"><img src="images/gcp.png" width="50px;" height="50px;" alt="GCP"/><br /><b>GCP</b></a></td>
-    </tr>
-  </table>
-</center>
-
-#### Monitoring & Dashboards
+### Monitoring & Dashboards
 <center>
   <table>
     <tr>
       <td align="center"><a href="tools/monitor/grafana.md"><img src="images/grafana.png" width="50px;" height="50px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
       <td align="center"><a href="tools/monitor/prometheus.md"><img src="images/prometheus.png" width="50px;" height="50px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
       <td align="center"><a href="tools/monitor/nagios.md"><img src="images/nagios.png" width="50px;" height="50px;" alt="Nagios"/><br /><b>Nagios</b></a></td>
+    </tr>
+  </table>
+</center>
+
+<!-- Cloud Section -->
+___
+# Cloud Platforms
+<center>
+  <table>
+    <tr>
+      <td align="center"><a href="tools/cloud/aws.md"><img src="images/aws.png" width="50px;" height="50px;" alt="AWS"/><br /><b>AWS</b></a></td>
+      <td align="center"><a href="tools/cloud/azure.md"><img src="images/azure.png" width="50px;" height="50px;" alt="Azure"/><br /><b>Azure</b></a></td>
+      <td align="center"><a href="tools/cloud/gcp.md"><img src="images/gcp.png" width="50px;" height="50px;" alt="GCP"/><br /><b>GCP</b></a></td>
     </tr>
   </table>
 </center>
