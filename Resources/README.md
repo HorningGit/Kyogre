@@ -24,7 +24,7 @@ Type | Name | Description
 :------|:------:|:------:
 Linux Administration | [The Linux Foundation](https://training.linuxfoundation.org/) | LFCA Certification Training Portal (Current Goal!)
 Linux Administration | [Linux Journey](https://linuxjourney.com) | Written guides + exercises + quiz
-Linux Administration | [Techmint Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners) | Written articles/lessons
+Linux Administration | [Katacoda](https://www.katacoda.com/) | Training & Excercises
 Linux Administration | [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction) | Interactive guide
 
 
